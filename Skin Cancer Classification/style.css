@@ -1,0 +1,21 @@
+
+    <style>
+    body, .stApp {
+        background-color: #0e0e0e;
+        color: #f0f0f0;
+    }
+    h1 {
+        color: #00f0ff;
+        font-size: 42px;
+        font-family: 'Trebuchet MS', sans-serif;
+    }
+    .stSelectbox label, .stFileUploader label {
+        font-size: 18px;
+        color: #e0e0e0;
+    }
+    .stButton > button {
+        background-color: #00c6ff;
+        color: black;
+    }
+    </style>
+    
