@@ -15,9 +15,8 @@ I'm an **AI enthusiast** and a passionate **developer**, transitioning from a su
 ### 🔧 **Skills & Technologies**
 - **Languages**: Python, JavaScript, SQL  
 - **AI & ML**: TensorFlow, PyTorch, Scikit-Learn  
-- **Web Development**: HTML, CSS, React.js  
-- **Tools**: Git, Docker, Jupyter Notebook  
-- **Project Management**: Agile Methodologies, Jira, Trello
+- **Tools**: Jupyter Notebook, Google Colab, Power BI
+- **Project Management**: Agile Methodologies, Business Analysis, Process Management
 
 ---
 
@@ -40,8 +39,3 @@ I'm an **AI enthusiast** and a passionate **developer**, transitioning from a su
 Let's collaborate, share ideas, and build something amazing together!  
 - **LinkedIn**: [Maria Koroleva](https://www.linkedin.com/in/maria-koroleva-22a0b2102/)  
 - **Email**: [Maria Koroleva](mariakoroleva0908@gmail.com)  
-
----
-
-### 🌟 **Fun Fact**
-I love blending my project management expertise with AI to build organized, efficient, and powerful solutions.  
